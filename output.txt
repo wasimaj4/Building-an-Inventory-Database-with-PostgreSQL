@@ -1,0 +1,33 @@
+SET
+ALTER TABLE
+ALTER TABLE
+UPDATE 0
+CREATE TABLE
+INSERT 0 2
+UPDATE 0
+ALTER TABLE
+INSERT 0 1
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+ALTER TABLE
+INSERT 0 1
+id|name
+1| Pip Industrial
+2| NNC Manufacturing
+3| BBEV Corporation
+4| Tineye Corporation
+5| Tracer Technolgies
+6| BN Metals Corp.
+7| Northern Manufacturing
+8| Western IL Manufacturing
+9| NAU Remote Sensing
+10| Audion Industrial
+11|Pip-NNC Industrial
+(11 rows)
